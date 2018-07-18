@@ -1,0 +1,1 @@
+A copy/paste of Go Modules so that the Parser and Semver packages can be used out of the `internal` path. 
