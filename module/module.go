@@ -25,7 +25,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"cmd/go/internal/semver"
+	"marwan.io/vgop/semver"
 )
 
 // A Version is defined by a module path and version pair.
